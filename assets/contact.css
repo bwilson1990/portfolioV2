@@ -1,0 +1,25 @@
+.row {
+    color: black;
+    background-color: white;
+    text-align: left;
+    margin: 0px;
+    padding: 12px;
+    padding-bottom: 48px;
+    margin-top: 46px;
+}
+
+.form-group {
+    margin-left: 0px;
+    padding: 0px;
+}
+
+h1 {
+    margin-left: 0px;
+    margin-top: 20px;
+}
+
+.row2 {
+    background-color: darkgrey;
+    margin-left: 90px;
+    margin-right: 90px;
+}
